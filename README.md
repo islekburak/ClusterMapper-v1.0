@@ -116,7 +116,7 @@ optional arguments:
 * **Burak Islek** - [Computational Genomics Laboratory - Adebali Lab.
 ](https://adebalilab.org/)
 
-See also the list of [contributors](https://github.com/CompGenomeLab) who participated in this project.
+See also the list of [contributors](https://github.com/orgs/CompGenomeLab/people) who participated in this project.
 
 ## License
 
