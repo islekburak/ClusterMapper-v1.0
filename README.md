@@ -120,7 +120,7 @@ See also the list of [contributors](https://github.com/orgs/CompGenomeLab/people
 
 ## License
 
-This project is licensed under GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 - see the [LICENSE](LICENSE) file for details
+This project is licensed under GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 - see the [LICENSE](LICENSE.md) file for details
 
 ## Acknowledgments
 
