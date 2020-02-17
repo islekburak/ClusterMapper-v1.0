@@ -27,6 +27,7 @@ Bio.Align.Applications
 
 > You should have a database file (.fasta format) to make analysis via ClusterMapper. Database file should contain
 complete proteome sequences for all eukaryotes. You can download the sequences from:
+
 ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/
 
 ### Important Tip
@@ -67,14 +68,13 @@ Analysis using ClusterMapper gives you 6 different outputs:
 >>2D matrix file (obtained from the similarity scores of only human sequences) to make further analysis or plotting.
 
 >_aligned.txt
->>Cluster Omega global alignment output
+>>Cluster Omega global alignment output.
 
 >_clustermap.png
->>Represents hierarchical clustering results and
-				visual map of it
+>>Represents hierarchical clustering results and visual map of it.
 
 >_heatmap.png
->>Heatmap from Cluster Omega analysis
+>>Heatmap from Cluster Omega analysis.
 
 ## Built With
 
