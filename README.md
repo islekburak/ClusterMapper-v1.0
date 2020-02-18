@@ -28,7 +28,7 @@ Bio.Align.Applications
 > You should have a database file (.fasta format) to make analysis via ClusterMapper. Database file should contain
 complete proteome sequences for all eukaryotes. You can download the sequences from:
 
-[ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/]()
+[ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/](ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/)
 
 ### Important Tip
 You should download only ".fasta" files. Using regex may be easy to get all the files that have same pattern.
